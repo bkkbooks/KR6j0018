@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0018/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 大日經持誦次第儀軌
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T18/T18n0860.xml
+    old_id: T18n0860
+hash: sha256:cd1735694dbe55549f6c0d0bea1baa1d06f48665654fea742f4f62d07a65ba12
